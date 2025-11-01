@@ -5,15 +5,11 @@ body {
     padding: 0;
     line-height: 1.6;
     color: #f4f4f4;
-    background-color: #6c2394;
-}
-
-#bluebody {
-    background-color: #ecf0f1;
+    background-color: #433a48;
 }
 
 h1 {
-    color: #cdd3d9;
+    color: #316eac;
 }
 
 h2 {
@@ -35,7 +31,7 @@ h3 {
 header {
     background: black;
     /* Primary Brand Color */
-    color: white;
+    color: rgb(53, 36, 76);
     padding: 1em 0;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -108,7 +104,7 @@ section {
 
 .cta-button {
     display: inline-block;
-    background-color: #b6a1e0;
+    background-color: #9d96a9;
     /* Call to Action Color */
     color: white;
     padding: 10px 20px;
@@ -120,7 +116,7 @@ section {
 }
 
 .cta-button:hover {
-    background-color: #857ec9;
+    background-color: #090623;
 }
 
 /* Services Section Layout */
@@ -134,7 +130,7 @@ section {
 }
 
 .service-item {
-    background: #857ec9;
+    background: #cdccd6;
     color: #2c3e50;
     padding: 20px;
     border-radius: 5px;
@@ -156,7 +152,7 @@ footer {
 
 #about {
     color: black;
-    background-color: rgb(194, 119, 208);
+    background-color: rgb(14, 13, 15);
 }
 
 #contact {
